@@ -1,0 +1,38 @@
+_repo: The-Old-Man-s-Bag_23485
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Monsell, J. R.
+    alias: Monsell, J.R.
+    gutenberg_agent_id: '25878'
+    url: http://www.gutenberg.org/2009/agents/25878
+covers:
+- cover_type: archival
+  image_path: 23485-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crosland, T. W. H. (Thomas William Hodgson)
+    aliases:
+    - Crosland, Thomas William Hodgson
+    - McNeill, Angus
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '25879'
+    url: http://www.gutenberg.org/2009/agents/25879
+description: ''
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Police -- Juvenile fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Older people -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: The Old Man's Bag
+url: http://www.gutenberg.org/ebooks/23485
